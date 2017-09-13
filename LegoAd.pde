@@ -1,4 +1,4 @@
-// LegoAd
+// Lego Family
 // Starter Code
 
 void setup() {
@@ -9,7 +9,7 @@ void setup() {
 
 void draw() {
   // Homer
-  fill(250,193,35);    // yellow skin
+  fill(69,165,68);    // yellow skin
   rect(210,175,40,45); // Homer head
   fill(245,245,245);   // off-white
   rect(210,220,40,50); // Homer shirt
